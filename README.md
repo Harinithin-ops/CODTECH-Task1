@@ -1,9 +1,9 @@
 # CODTECH-Task1
-#NAME:HARI NITHIN S
-#COMPANY:CODTECH IT SOLUTIONS
-#ID:CTO8FED
-#DOMAIN:FRONTEND WEB DEVELOPMENT
-#DURATION:DECEMBER 20TH TO JANUARY 20TH 2025
+NAME:HARI NITHIN S
+COMPANY:CODTECH IT SOLUTIONS
+ID:CTO8FED
+DOMAIN:FRONTEND WEB DEVELOPMENT
+DURATION:DECEMBER 20TH TO JANUARY 20TH 2025
 
 OVER VIEW OF THE PROJECT
 1. Header Section
@@ -23,7 +23,7 @@ The dropdown menu (.dropdown) uses custom styles to display a list of links when
 3. Home Section
 The "Home" section introduces the portfolio owner with a background image (using background-image).
 Contains a heading ("hi i'am Hari Nithin S") and a subheading ("i am a college student").
-There's a call-to-action button (connect with me), which links to a WhatsApp number (via https://wa.me).
+There's a call-to-action button (connect with me), which links to a WhatsApp number.
 4. About Section
 The "About" section also uses a background image and contains an introduction to Hari Nithin S.
 A short description of his academic background and interests is provided, including his passion for learning programming, data analysis, and sports like handball.
